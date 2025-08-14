@@ -1,5 +1,9 @@
-import functions
 # from functions import get_todos, write_todos
+import functions
+import time
+
+today = time.strftime("%b %d, %Y %H:%M:%S")
+print(f"Today is {today}")
 
 while True:
     user_choice = input("Type add, edit, show, complete or exit: ")
