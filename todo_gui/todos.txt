@@ -1,4 +1,7 @@
-Play Chess
-Prepare Lunch
+Play Cricket
+Prepare Dinner
 Learn Python
 Prepare Opening
+Do a Puzzle Rush
+
+
